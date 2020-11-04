@@ -7,4 +7,4 @@ Calculator app: https://github.com/GavinEnglish/Calculator
 Nintendo Radio app: https://github.com/GavinEnglish/Nintendo-Radio
 
 
-Chicken Fighter app:
+Super Bird Fighter Ultra app:https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra
