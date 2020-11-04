@@ -1,10 +1,10 @@
 # iOS-Portfolio
 2018-2019 Portfolio
 
-Calculator app: 
+Calculator app: https://github.com/GavinEnglish/Calculator 
 
 
-Nintendo Radio app:
+Nintendo Radio app: https://github.com/GavinEnglish/Nintendo-Radio
 
 
 Chicken Fighter app:
