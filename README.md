@@ -1,10 +1,13 @@
 # iOS-Portfolio
 2018-2019 Portfolio
 
-Calculator app: https://github.com/GavinEnglish/Calculator 
+Calculator App: https://github.com/GavinEnglish/Calculator 
 
 
-Nintendo Radio app: https://github.com/GavinEnglish/Nintendo-Radio
+Nintendo Radio App: https://github.com/GavinEnglish/Nintendo-Radio
 
 
-Super Bird Fighter Ultra app:https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra
+Flappy Turtle App: https://github.com/GavinEnglish/FlappyTurtle
+
+
+Super Bird Fighter Ultra App: https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra
