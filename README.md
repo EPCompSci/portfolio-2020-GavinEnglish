@@ -1,5 +1,4 @@
-# iOS-Portfolio
-2020-2021 Portfolio (Screenshots of how the apps look are in their individual Github links)
+# 2020-2021 Portfolio (Screenshots of how the apps look are in their individual Github links)
 
 Calculator App: https://github.com/GavinEnglish/Calculator 
 
