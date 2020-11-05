@@ -1,4 +1,4 @@
-# 2020-2021 Portfolio (Screenshots of how the apps look are in their individual Github links)
+# 2020-2021 Portfolio (More info on my projects and screenshots of how the apps look are in their individual Github links)
 
 Hi, my name is Gavin Engilsh .........
 
@@ -13,6 +13,7 @@ https://github.com/GavinEnglish/Nintendo-Radio
 # Flappy Turtle App: 
 https://github.com/GavinEnglish/FlappyTurtle
 
+This was my final AP Computer Science Principles project. The object of this game was for the user to get the highest score possible by making the turtle go between the two straws without touching either of the straws. 
 
 # Zucc Succ App: 
 https://github.com/GavinEnglish/Zucc-Succ
