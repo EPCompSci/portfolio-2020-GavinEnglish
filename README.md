@@ -1,15 +1,16 @@
 # 2020-2021 Portfolio (More info on my projects and screenshots of how the apps look are in their individual Github links)
 
-Hi, my name is Gavin Engilsh .........
+Hi, my name is Gavin Engilsh, I am currently a senior at Eden Prairie High School. Most my computer science knowledge comes from AP Computer Science Principles, IOS App Development, Computer Science Honors Society, and self reasearch. I really enjoy the different aspects of developing an app (Coding, Art / Animations, Team Collaboration, etc.) and hope to further my knowledge of computer science in the years to come.
 
 # Calculator App: 
 https://github.com/GavinEnglish/Calculator 
 
-This was the first app I started working on in IOS app development. I followed youtube videos to learn the basics of V-Stacks, H-Stacks, and Z-stacks. Then I made my app icon with green and blue colors, which were the colors of the calculators buttons. Currently, the calculator only functions in a way that when you click the buttons it inputs what the button says onto the calculator. The reason I decided to not figure out math and functions is because I wanted to start working on a new project, rather than figuring out how to implement math on xcode.
+This was the first app I started working on in IOS App Development. I followed youtube videos to learn the basics of V-Stacks, H-Stacks, and Z-stacks. Then I made my app icon with green and blue colors, which were the colors of the calculators buttons. Currently, the calculator only functions in a way that when you click the buttons it inputs what the button says onto the calculator. The reason I decided to not figure out math and functions is because I wanted to start working on a new project, rather than figuring out how to implement math on xcode.
 
 # Nintendo Radio App: 
 https://github.com/GavinEnglish/Nintendo-Radio
 
+This was the second app I created in IOS App Development
 
 # Flappy Turtle App: 
 https://github.com/GavinEnglish/FlappyTurtle
