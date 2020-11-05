@@ -10,7 +10,7 @@ This was the first app I started working on in IOS App Development. I followed y
 # Nintendo Radio App: 
 https://github.com/GavinEnglish/Nintendo-Radio
 
-This was the second app I created in IOS App Development
+This was the second app I created in IOS App Development. The main things I learned were first developing my knowledge of the different stacks, how to play / pause / skip songs, and how to import songs into xcode and what format the audio had to be in in order to do so. What this app did was when you hit play it played a song from a Nintendo game, and then allow you to skip songs or to pause them.
 
 # Flappy Turtle App: 
 https://github.com/GavinEnglish/FlappyTurtle
@@ -24,3 +24,5 @@ This was my first ever project on MIT app inventor. This games objective was for
 
 # Super Bird Fighter Ultra App: 
 https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra
+
+This was my first group project in IOS App Development. The final objective is to make a fighter game that will be published to the app store that will be like a mix of Mortal Combat and Super Smash Bros. So far, we have brainstormed and created different characters, implemented animations, gathered music and sound effects, pixelated photos to be used as backgrounds, and started coding parts of the app.
