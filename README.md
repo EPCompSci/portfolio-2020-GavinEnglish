@@ -5,6 +5,7 @@ Hi, my name is Gavin Engilsh .........
 # Calculator App: 
 https://github.com/GavinEnglish/Calculator 
 
+This was the first app I started working on in IOS app development. I followed youtube videos to learn the basics of V-Stacks, H-Stacks, and Z-stacks. Then I made my app icon with green and blue colors, which were the colors of the calculators buttons. Currently, the calculator only functions in a way that when you click the buttons it inputs what the button says onto the calculator. The reason I decided to not figure out math and functions is because I wanted to start working on a new project, rather than figuring out how to implement math on xcode.
 
 # Nintendo Radio App: 
 https://github.com/GavinEnglish/Nintendo-Radio
