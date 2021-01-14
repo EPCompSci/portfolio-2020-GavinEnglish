@@ -29,4 +29,4 @@ This was my first group project in IOS App Development. Super Bird Fighter Ultra
 
 # Pong App
 
-This was the final app that me and a group worked on in IOS App Development. We mainly learned how to make this app to expand our knowledge of coing using SwiftUI. 
+This was the final app that me and a group worked on in IOS App Development. We mainly learned how to make this app to expand our knowledge of coing using SwiftUI. I learned alot of new code and I learned how to make a game with a scoring system that can have 2 players play at once on 1 device 
