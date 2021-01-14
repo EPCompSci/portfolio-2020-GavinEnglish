@@ -25,4 +25,8 @@ This was my first ever project on MIT app inventor. This games objective was for
 # Super Bird Fighter Ultra App: 
 https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra
 
-This was my first group project in IOS App Development. The final objective is to make a fighter game that will be published to the app store that will be like a mix of Mortal Combat and Super Smash Bros. So far, we have brainstormed and created different characters, implemented animations, gathered music and sound effects, pixelated photos to be used as backgrounds, and started coding parts of the app.
+This was my first group project in IOS App Development. Super Bird Fighter Ultra is a game with the main objective of the user being a character that punches the boss chicken to earn points, but if hit by the boss chickens eggs 5 times, then they lose and can start over. I learned a lot through my team and I creating this app. The main things I learned include: How to use app store connect, Various different aspects of finding music / sfx, How to use art in an app, and how to code different parts of a game.
+
+# Pong App
+
+This was the final app that me and a group worked on in IOS App Development. We mainly learned how to make this app to expand our knowledge of coing using SwiftUI. 
