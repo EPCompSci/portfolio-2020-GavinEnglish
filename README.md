@@ -28,5 +28,6 @@ https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra
 This was my first group project in IOS App Development. Super Bird Fighter Ultra is a game with the main objective of the user being a character that punches the boss chicken to earn points, but if hit by the boss chickens eggs 5 times, then they lose and can start over. I learned a lot through my team and I creating this app. The main things I learned include: How to use app store connect, Various different aspects of finding music / sfx, How to use art in an app, and how to code different parts of a game.
 
 # Pong App
+https://github.com/GavinEnglish/Pong
 
 This was the final app that me and a group worked on in IOS App Development. We mainly learned how to make this app to expand our knowledge of coing using SwiftUI. I learned alot of new code and I learned how to make a game with a scoring system that can have 2 players play at once on 1 device. This also tought me a lot about using GameScene and Storyboard.
